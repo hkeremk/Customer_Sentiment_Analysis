@@ -1,3 +1,4 @@
 # Customer Sentiment Analysis with AWS Comprehend - Stages
 
-![Analyze](assets/Comprehend-Analyze.png)
+
+![Comprehend](assets/Customer-Sentiment-Chart.png)
