@@ -1,6 +1,7 @@
 # Customer Sentiment Analysis with AWS Comprehend - Stages
 
 - First, try Comprehend and analyze a text
+
 ![Comprehend-Analyze](../assets/Comprehend-Analyze.png)
 
 ![Comprehend-Analyze-2](../assets/Comprehend-Analyze-2.png)
